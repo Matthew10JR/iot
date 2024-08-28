@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "141406975230",
+    "firebase_url": "https://final-4cf8b-default-rtdb.firebaseio.com",
+    "project_id": "final-4cf8b",
+    "storage_bucket": "final-4cf8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141406975230:android:fcbdb4585a09dc2ad3a1af",
+        "android_client_info": {
+          "package_name": "com.finaliot.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBjv6gX45Vp_du_pPgxmtcj5ZG1IeEQH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
